@@ -1,0 +1,64 @@
+* {
+    font-family: 微軟正黑體;
+    font-size: 20px;
+}
+
+.pic1 {
+    background-image: url(https://picsum.photos/200);
+    border: 1px solid black;
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.card1 {
+    margin: 12em 15em;
+}
+
+.pic2 {
+    background-image: url(https://picsum.photos/200);
+    border: 1px solid black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.card2 {
+    margin: 12em 15em;
+}
+
+.pic3 {
+    background-image: url(https://picsum.photos/200);
+    border: 1px solid black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.card3 {
+    margin: 12em 15em;
+}
+
+.pic4 {
+    background-image: url(https://picsum.photos/200);
+    border: 1px solid black;
+    background-size: 100%100%;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.card4 {
+    margin: 12em 15em;
+}
+
+.pic5 {
+    background-image: url(https://picsum.photos/200);
+    border: 1px solid black;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+.card5 {
+    margin: 12em 15em;
+}
